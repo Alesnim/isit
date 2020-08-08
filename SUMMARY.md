@@ -1,4 +1,9 @@
 # Table of contents
 
-* [Практическая 1. Модели представления знаний](README.md)
+* [Интеллектуальные системы и технологии. Практические занятия](README.md)
+
+## Модели представления знаний
+
+* [Практическая 1. Модели представления знаний. Фреймовая модель](modeli-predstavleniya-znanii/prakticheskaya-1.-modeli-predstavleniya-znanii.-freimovaya-model.md)
+* [Практическая 2.](modeli-predstavleniya-znanii/prakticheskaya-2..md)
 
