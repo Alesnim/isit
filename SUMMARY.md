@@ -15,3 +15,7 @@
 * [Практическая 4. Введение в нечеткую логику](nechetkaya-logika/prakticheskaya-4.-vvedenie-v-nechetkuyu-logiku.md)
 * [Практическая 5. Нечеткий вывод](nechetkaya-logika/prakticheskaya-5.-nechetkii-vyvod.md)
 
+---
+
+* [Практическая 6.](prakticheskaya-6..md)
+
