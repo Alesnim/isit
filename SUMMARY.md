@@ -14,8 +14,6 @@
   * [Если нет интернета](nechetkaya-logika/prakticheskaya-3.-ischislenie-predikatov/esli-net-interneta.md)
 * [Практическая 4. Введение в нечеткую логику](nechetkaya-logika/prakticheskaya-4.-vvedenie-v-nechetkuyu-logiku.md)
 * [Практическая 5. Нечеткий вывод](nechetkaya-logika/prakticheskaya-5.-nechetkii-vyvod.md)
-
----
-
-* [Практическая 6.](prakticheskaya-6..md)
+* [Практическая 6. Нечеткий контроллер](nechetkaya-logika/prakticheskaya-6..md)
+* [Практическая 7. Нечеткая кластеризация](nechetkaya-logika/prakticheskaya-7.-nechetkaya-klasterizaciya.md)
 
