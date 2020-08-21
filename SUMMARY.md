@@ -17,3 +17,8 @@
 * [Практическая 6. Нечеткий контроллер](nechetkaya-logika/prakticheskaya-6..md)
 * [Практическая 7. Нечеткая кластеризация](nechetkaya-logika/prakticheskaya-7.-nechetkaya-klasterizaciya.md)
 
+## Генетические алгоритмы
+
+* [Практическая 8. Введение в генетические алгоритмы](geneticheskie-algoritmy/prakticheskaya-8.-vvedenie-v-geneticheskie-algoritmy.md)
+* [Untitled](geneticheskie-algoritmy/untitled.md)
+
