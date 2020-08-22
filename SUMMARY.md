@@ -20,5 +20,5 @@
 ## Генетические алгоритмы
 
 * [Практическая 8. Введение в генетические алгоритмы](geneticheskie-algoritmy/prakticheskaya-8.-vvedenie-v-geneticheskie-algoritmy.md)
-* [Untitled](geneticheskie-algoritmy/untitled.md)
+* [Практическая 9. Работа с генетическими алгоритмами в Scilab](geneticheskie-algoritmy/untitled.md)
 
