@@ -22,3 +22,7 @@
 * [Практическая 8. Введение в генетические алгоритмы](geneticheskie-algoritmy/prakticheskaya-8.-vvedenie-v-geneticheskie-algoritmy.md)
 * [Практическая 9. Работа с генетическими алгоритмами в Scilab](geneticheskie-algoritmy/untitled.md)
 
+## Машинное обучение
+
+* [Практическая 10. Введение в машинное обучение](mashinnoe-obuchenie/prakticheskaya-10.-vvedenie-v-mashinnoe-obuchenie.md)
+
