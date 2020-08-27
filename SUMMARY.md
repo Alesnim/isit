@@ -25,4 +25,5 @@
 ## Машинное обучение
 
 * [Практическая 10. Введение в машинное обучение](mashinnoe-obuchenie/prakticheskaya-10.-vvedenie-v-mashinnoe-obuchenie.md)
+* [Практическая 11. Введение в машинное обучение \(часть 2\)](mashinnoe-obuchenie/prakticheskaya-11.-vvedenie-v-mashinnoe-obuchenie-chast-2.md)
 
