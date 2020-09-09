@@ -28,4 +28,5 @@
 * [Практическая 11. Введение в машинное обучение \(часть 2\)](mashinnoe-obuchenie/prakticheskaya-11.-vvedenie-v-mashinnoe-obuchenie-chast-2.md)
 * [Практическая 12. Линейные модели](mashinnoe-obuchenie/prakticheskaya-12.-lineinaya-regressiya.md)
 * [Практическая 13. Линейные модели классификации](mashinnoe-obuchenie/prakticheskaya-13.-lineinye-modeli-klassifikacii.md)
+* [Практическая 14. Деревья решений](mashinnoe-obuchenie/prakticheskaya-14.-derevya-reshenii.md)
 
