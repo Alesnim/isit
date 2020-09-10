@@ -19,8 +19,8 @@
 
 ## Генетические алгоритмы
 
+* [Практическая 8. Работа с Jupiter Notebook](geneticheskie-algoritmy/untitled.md)
 * [Практическая 8. Введение в генетические алгоритмы](geneticheskie-algoritmy/prakticheskaya-8.-vvedenie-v-geneticheskie-algoritmy.md)
-* [Практическая 9. Работа с генетическими алгоритмами в Scilab](geneticheskie-algoritmy/untitled.md)
 
 ## Машинное обучение
 
