@@ -160,7 +160,7 @@ plt.pyplot.scatter(model.best_variable, \\
 
 Ознакомится с документацией к библиотеке [geneticalgorithm](https://github.com/rmsolgi/geneticalgorithm)
 
-### Задание 2
+### Задание 2. Оптимизация функции генетическим алгоритмом
 
 Выполнить поиск минимума для функции упрощенным генетическим алгоритмом по вариантам: 
 
@@ -174,6 +174,15 @@ plt.pyplot.scatter(model.best_variable, \\
 8. $$y(x) = (x-1)^2 + 4 , x = [-4; 4]$$ 
 9. $$y(x) = cos(x^2) + \sqrt{x}, x = [0;6]$$ 
 10. $$y(x) = sin(x + 42) + \frac{(x^2)}{4} - x, x=[0;7]$$ 
+
+### Задание 3. Оптимизация функции при помощи дифференциальной эволюции.
+
+Прочтите справку про функцию оптимизации [differential\_evolution](https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.differential_evolution.html). 
+
+Выполнить поиск минимума функции при помощи дифференциальной эволюции из пакета модуля Scipy:
+
+1. $$y(x) = \sum_{i=1}^{n} x_i^2, x \in (-5.12, 5.12)$$ 
+2. $$z(x,y) =  x^2+y^2-cos(12x)-cos(18y), x \in (-2, 2)$$
 
 ## Контрольные вопросы
 
