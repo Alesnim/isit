@@ -20,13 +20,12 @@
 ## Генетические алгоритмы
 
 * [Практическая 8. Работа с Jupiter Notebook](geneticheskie-algoritmy/untitled.md)
-* [Практическая 8. Введение в генетические алгоритмы](geneticheskie-algoritmy/prakticheskaya-8.-vvedenie-v-geneticheskie-algoritmy.md)
+* [Практическая 9. Введение в генетические алгоритмы](geneticheskie-algoritmy/prakticheskaya-8.-vvedenie-v-geneticheskie-algoritmy.md)
 
 ## Машинное обучение
 
 * [Практическая 10. Введение в машинное обучение](mashinnoe-obuchenie/prakticheskaya-10.-vvedenie-v-mashinnoe-obuchenie.md)
-* [Практическая 11. Введение в машинное обучение \(часть 2\)](mashinnoe-obuchenie/prakticheskaya-11.-vvedenie-v-mashinnoe-obuchenie-chast-2.md)
+* [Практическая 11. Введение в машинное обучение (часть 2)](mashinnoe-obuchenie/prakticheskaya-11.-vvedenie-v-mashinnoe-obuchenie-chast-2.md)
 * [Практическая 12. Линейные модели](mashinnoe-obuchenie/prakticheskaya-12.-lineinaya-regressiya.md)
 * [Практическая 13. Линейные модели классификации](mashinnoe-obuchenie/prakticheskaya-13.-lineinye-modeli-klassifikacii.md)
 * [Практическая 14. Деревья решений](mashinnoe-obuchenie/prakticheskaya-14.-derevya-reshenii.md)
-
